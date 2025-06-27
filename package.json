@@ -1,0 +1,20 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jose Adrian Florse Vigil <insightvigil@gmail.com>",
+  "license": "MIT",
+  "description": "Ejercicios desarrollados durante ECMAScript course",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insightvigil/curso-ecmascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/insightvigil/curso-ecmascript/issues"
+  },
+  "homepage": "https://github.com/insightvigil/curso-ecmascript#readme"
+}
