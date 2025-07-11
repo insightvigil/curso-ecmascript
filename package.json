@@ -13,10 +13,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/insightvigil/curso-ecmascript.git"
-    
   },
   "bugs": {
     "url": "https://github.com/insightvigil/curso-ecmascript/issues"
   },
-  "homepage": "https://github.com/insightvigil/curso-ecmascript#readme"
+  "homepage": "https://github.com/insightvigil/curso-ecmascript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
