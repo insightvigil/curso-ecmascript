@@ -8,8 +8,6 @@ In this repo, I included all my finished exercises from the ecmascript course. Y
 ### Applied API's 🧩
 - localStorage API
 
-You can check it out live [here](https://insightvigil.github.io/[repository-name]/).
-
 ### Contributors 🤝
 - [Adrián Vigil](https://github.com/insightvigil)
 
